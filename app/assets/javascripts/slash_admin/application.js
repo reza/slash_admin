@@ -27,7 +27,6 @@
 //= require jquery.nestable
 //= require jquery.minicolors
 //= require pagy
-//= require turbolinks
 //= require slash_admin/custom
 //= require_tree .
 
